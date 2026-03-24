@@ -1,0 +1,19 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/app/google-services.json
+
+# Web
+web/node_modules/
+web/dist/
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# IDE
+.idea/
+*.iml
+.DS_Store
